@@ -51,8 +51,10 @@ After the weather analysis was completed, started the vacation analysis.<br />
 <br />
 First, created a Humidity Heatmap with GMaps.<br />
 Then, applied a weather filter to create a dataframe of ideal cities.<br />
-![image](https://github.com/KotR9001/python-api-challenge/assets/57807780/e0d3a046-52e4-499a-b95e-aff5a22c45c8)<br />
+![image](https://github.com/KotR9001/python-api-challenge/assets/57807780/082c8403-f6c0-40bb-b07e-ed628d961350)
+<br />
 <br />
 Next, found the closest hotel for each city in this dataframe.<br />
-![image](https://github.com/KotR9001/python-api-challenge/assets/57807780/cac151c1-425f-4057-b137-c6d66ec9637d)<br />
+![image](https://github.com/KotR9001/python-api-challenge/assets/57807780/1f7b499e-e70e-43ee-835e-cd6358e558cf)
+<br />
 <br />
