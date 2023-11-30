@@ -5,6 +5,7 @@ Weather and Vacation Analysis
 Undertook an assignment to determine the effect of latitude & longitude on weather and to use that analysis to filter data from a
 dataframe to help plan a vacation.<br />
 <br />
+<br />
 First, an API call was made to the OpenWeatherMap API to obtain a random list of 500+ world cities with their coordinates and current
 weather information.<br />
 Next, used Pandas to put this data in a dataframe.<br />
@@ -36,7 +37,7 @@ Used the data from these to recreate the above relationships, but with linear re
 ![image](https://github.com/KotR9001/python-api-challenge/assets/57807780/8d9ba097-0b42-4575-aaf0-d8c411028a2a)<br />
 <br />
 <br />
-The following conclusions were made.<br />
+Made the following conclusions.<br />
 
 -------------------------------------------------------------------------------------------------------------------
 1. The latitude is only a good predictor of temperature. It is not a good predictor of humidity, cloudiness, or wind speed.
@@ -47,6 +48,7 @@ The following conclusions were made.<br />
 <br />
 <br />
 After the weather analysis was completed, started the vacation analysis.<br />
+<br />
 First, created a Humidity Heatmap with GMaps.<br />
 Then, applied a weather filter to create a dataframe of ideal cities.<br />
 ![image](https://github.com/KotR9001/python-api-challenge/assets/57807780/e0d3a046-52e4-499a-b95e-aff5a22c45c8)<br />
