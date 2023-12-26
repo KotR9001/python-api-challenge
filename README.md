@@ -6,7 +6,7 @@ Undertook an assignment to determine the effect of latitude & longitude on weath
 dataframe to help plan a vacation.<br />
 <br />
 <br />
-First, an API call was made to the OpenWeatherMap API to obtain a random list of 500+ world cities with their coordinates and current
+First, made an API call to the OpenWeatherMap API to obtain a random list of 500+ world cities with their coordinates and current
 weather information.<br />
 Next, used Pandas to put this data in a dataframe.<br />
 ![image](https://github.com/KotR9001/python-api-challenge/assets/57807780/5c38669e-32c4-480c-928d-52697b2ec99d)<br />
