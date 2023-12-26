@@ -6,10 +6,19 @@ Undertook an assignment to determine the effect of latitude & longitude on weath
 dataframe to help plan a vacation.<br />
 <br />
 <br />
-First, made an API call to the OpenWeatherMap API to obtain a random list of 500+ world cities with their coordinates and current
-weather information.<br />
-Next, used Pandas to put this data in a dataframe.<br />
+First, read in a list of cities (<b>cities.csv</b>).<br />
+![image](https://github.com/KotR9001/python-api-challenge/assets/57807780/b067ed63-6c83-4202-8d28-653b2d239ee8)<br />
+<br />
+Then created empty lists for storing latitude-longitude pairs and corresponding cities as well as an empty dataframe for storing city weather data.<br />
+![image](https://github.com/KotR9001/python-api-challenge/assets/57807780/5c2fa777-9148-463a-b8b0-bea3bbbdb1b1)<br />
+<br />
+After that, made an API call to the OpenWeatherMap API to obtain a random list of 500+ world cities with their coordinates and current
+weather information and used this to filter cities fro.<br />
+![image](https://github.com/KotR9001/python-api-challenge/assets/57807780/45d0ca07-f6e8-43ce-b3ec-302f7431d0c7)<br />
+<br />
+Next, used Pandas to put this data in the empty dataframe.<br />
 ![image](https://github.com/KotR9001/python-api-challenge/assets/57807780/5c38669e-32c4-480c-928d-52697b2ec99d)<br />
+<br />
 After that, exported the data to a CSV and an HTML file.<br />
 ![image](https://github.com/KotR9001/python-api-challenge/assets/57807780/ef32b135-08b4-4f99-ab31-7f8bc51dfc69)<br />
 ![image](https://github.com/KotR9001/python-api-challenge/assets/57807780/3f2395bc-3281-4193-88d7-cc62fc43d454)<br />
